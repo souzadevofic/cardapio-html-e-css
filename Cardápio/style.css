@@ -1,0 +1,132 @@
+*{
+    font-family: sans-serif;
+    color: white;
+}
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.8),
+     rgba(0,0,0,0.8)), url("fundo.png");
+}
+
+h1{
+    text-align: center;
+    font-size: 35px;
+}
+/*Item 1*/
+.flexbox-container{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 890px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.flexbox-item{
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+}
+
+.flexbox-item-1 img{
+    padding-left: 10px;
+    width: 80%;
+    margin: 10px;
+}
+
+.btn{
+    width: 50px;
+    height: 25px;
+    background-color: green;
+    border: 0px;
+    border-radius: 5px;
+}
+
+/*Item 2*/
+.flexbox-container-2{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 890px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.flexbox-item-2{
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+}
+
+.flexbox-item-2 img{
+    padding-left: 20px;
+    width: 70%;
+    margin: 10px;
+}
+
+.btn-2{
+    width: 50px;
+    height: 25px;
+    background-color: green;
+    border: 0px;
+    border-radius: 5px;
+}
+
+/*Item 3*/
+.flexbox-container-3{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 890px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.flexbox-item-3{
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+}
+
+.flexbox-item-3 img{
+    padding-left: 40px;
+    width: 50%;
+    margin: 10px;
+}
+
+.btn-3{
+    width: 50px;
+    height: 25px;
+    background-color: green;
+    border: 0px;
+    border-radius: 5px;
+}
+
+/*Item 4*/
+.flexbox-container-4{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 890px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.flexbox-item-4{
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+}
+
+.flexbox-item-4 img{
+    padding-left: 20px;
+    width: 60%;
+    margin: 40px;
+}
+
+.btn-4{
+    width: 50px;
+    height: 25px;
+    background-color: green;
+    border: 0px;
+    border-radius: 5px;
+}
